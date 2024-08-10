@@ -8,6 +8,7 @@ permalink: /about
 ```katohack (or george)```
 
 # $cat info bucket favourite_quotes
+~~~
 //about me                           
 i like thinking that i know        
 what i am doing in hope that        ██ ▄█▀ 
@@ -25,29 +26,8 @@ guitar?                                     ░  ░  ░
 //bucket
  - [ ] fully understand what i am doing
  - [ ] achieve james hetfield guitar accuracy
- - [x] crappy list
+ - [X] crappy list
  - [ ] hack a bank or something 
+ ~~~
 
 # freedom of speech is words that they will bend!
-
-
- ██ ▄█▀ 
- ██▄█▒  
-▓███▄░  
-▓██ █▄  
-▒██▒ █▄ 
-▒ ▒▒ ▓▒ 
-░ ░▒ ▒░ 
-░ ░░ ░  
-░  ░    
-        
- ██░ ██ 
-▓██░ ██▒
-▒██▀▀██░
-░▓█ ░██ 
-░▓█▒░██▓
- ▒ ░░▒░▒
- ▒ ░▒░ ░
- ░  ░░ ░
- ░  ░  ░
-        
