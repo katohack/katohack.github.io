@@ -1,0 +1,15 @@
+title: "katohack.github.io"
+description: "a cool site about me and what i do"
+baseurl: ""
+url: "https://katohack.github.io/"
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+style: hacker
+
+footer: 'kh-202'
+
+remote_theme: katohack/jekyll-theme-kh202
