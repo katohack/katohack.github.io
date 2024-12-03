@@ -30,4 +30,4 @@ guitar?                                     ░  ░  ░
  - [ ] hack a bank or something 
  ~~~
 
-# freedom of speech is words that they will bend!
+# propaganda leaves us blinded
